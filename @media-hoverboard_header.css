@@ -1,0 +1,19 @@
+@media only screen and (max-width: 1930px)
+{
+    .hambu{display: none;}
+}
+
+@media only screen and (max-width:990px)
+{
+	.hambu{display: block;color: white;}
+	.store_links{display: none;}
+	.logo_up{margin-right: 15rem;}
+
+}
+
+@media only screen and (max-width: 767px)
+{
+	.hambu{display: block;}
+	.store_links{display: none;}
+	.logo_up{margin-right: 10rem;}
+}

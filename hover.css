@@ -1,0 +1,57 @@
+
+.logo{width: 100%;}
+.Welcome{width: 100%;display: flex;flex-direction: column;align-items: center;margin-top: 1rem;}
+.Welcome h1{color:#3cd402;}
+.exp{width: 60%;}
+.green{color:#3cd402;}
+.li_green{color:#36c80a;}
+
+.middle{width:100%; margin-top:1rem;}
+.hover_pic{display:flex;justify-content:center;}
+.exp_pic{display: flex;flex-direction: column;align-items: center;}
+.exp_pic a{text-decoration: none;color: rgb(111, 111, 111);}
+.exp_pic a:hover{text-decoration: underline;}
+
+.u_middle{width: 100%;margin-top: 3rem;}
+.video{display: flex;flex-direction: column;align-items: center;}
+
+.foot_con{width: 100%;background-color:#e2e2e2;height:11rem;margin-top: 1rem;}
+.footer_up{margin-left: 15rem;}
+.text{display: inline-block;padding: 0.5rem 0.4rem;font-size: 0.9rem;line-height: 1.1rem;color: #555;vertical-align: middle;outline: none;margin-bottom: 0.8rem;}
+.f_u_ex{width: 80%;display: flex;justify-content: space-between;border-bottom: solid 0.2rem rgb(255, 255, 255);}
+.footer_down{margin-left: 15rem;}
+.f_d_ex{width: 80%;display: flex;justify-content: space-between;}
+
+.foot_black{width: 100%;background-color:black;height: 28rem;}
+
+.f_b_up{margin-left: 15rem;}
+.f_b_ex{width: 80%;height:7rem; border-bottom:  solid 0.1rem rgb(111, 111, 111); display: flex;justify-content: space-between;align-items: center;}
+.face a{text-decoration: none;color:#e2e2e2;}
+.face a:hover{color: white;}
+.twitt a{text-decoration: none;color:#e2e2e2;}
+.twitt a:hover{color: white;}
+.tube a{text-decoration: none;color:#e2e2e2;}
+.tube a:hover{color: white;}
+.pinte a{text-decoration: none;color:#e2e2e2;}
+.pinte a:hover{color: white;}
+.inst a{text-decoration: none;color:#e2e2e2;}
+.inst a:hover{color: white;}
+.goog a{text-decoration: none;color:#e2e2e2;}
+.goog a:hover{color: white;}
+
+.f_b_down{margin-left: 15rem;}
+.f_b_d_ex{width: 80%;height: 14rem; display: flex;justify-content: space-between;border-bottom:  solid 0.1rem rgb(111, 111, 111);}
+.Customer h2{color:#6f6f6f;}
+.Customer a{text-decoration: none;color: #6f6f6f;}
+.Customer a:hover{text-decoration: underline;color: white;}
+.Company h2{color:#6f6f6f;}
+.Company a{text-decoration: none;color: #6f6f6f;}
+.Company a:hover{text-decoration: underline;color: white;}
+.Contacts h2{color:#6f6f6f;}
+.Contacts a{text-decoration: none;color: #6f6f6f;}
+.Contacts a:hover{text-decoration: underline;color: white;}
+.Switch_website h2{color:#6f6f6f;}
+
+.foot_end{margin-left: 15rem;margin-top: 1rem;}
+.foot_end_ex{display: flex; width: 80%;justify-content: space-between;}
+.company p{color:#6f6f6f; }

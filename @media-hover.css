@@ -1,0 +1,20 @@
+@media only screen and (max-width: 1930px)
+{}
+
+@media only screen and (max-width:990px)
+{
+	.hover_pic{display: flex;flex-direction: column;}
+	.pagamenti{display: none;}
+}
+
+@media only screen and (max-width: 767px)
+{
+	.hover_pic{display: flex;flex-direction: column;}
+	.footer_up{margin-left:0rem;}
+	.footer_down{margin-left:0rem;}
+	.f_d_ex{display: flex;flex-wrap: wrap;}
+	.f_b_down{margin-left: 0rem;}
+	.f_b_d_ex{display: flex;flex-direction:column;}
+	.pagamenti{display: none;}
+	.company{display: none;}
+}

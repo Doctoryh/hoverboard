@@ -1,0 +1,17 @@
+.site_header{}
+.site_header_up{width: 100%;height: 2rem; display: flex;background-color: black;border-bottom: 0.15rem dotted #888888;justify-content: flex-end;}
+.site_header_up a {text-decoration: none;color: #dddddd;}
+.site_header_up a:hover{text-decoration:underline;color: white;}
+.site_header_bottom {
+	width: 100%;
+	height: 3rem;
+	display: flex;
+	background-color: black;
+	justify-content: space-between;
+}
+.store_links{display: flex;}
+.site_header_bottom a {text-decoration: none;color:#dddddd;}
+.logo{display: flex;justify-content: flex-start;}
+.spe a { color:#ff0000;}
+.site_header_bottom a:hover{text-decoration: underline;color: white;}
+.spe a:hover{text-decoration: underline;color:#ff0000;}
